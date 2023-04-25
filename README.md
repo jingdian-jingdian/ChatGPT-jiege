@@ -26,7 +26,7 @@
 
 ## 使用教程(必看)
 
-- 你需要一个[加速器(科学上网工具)点击获取](https://knmvc.com/s/hqsc11)
+- 你需要一个[加速器(科学上网工具)点击获取](https://knmvc.com/s/hqsc11) 支持 安卓 iOS macOS Linux Windows系统.
 ![加速器](https://pic2.imgdb.cn/item/64471e470d2dde57774519fb.png)
 ![加速器](https://pic2.imgdb.cn/item/644731210d2dde577758bd8c.png)
 - 按照教程启动加速器后,就可以访问ChatGPT网站了,[点击进入官网](https://chat-gpt-next-web.vercel.app/)
@@ -34,7 +34,7 @@
 > 访问密码: `yanglianjie`
 > API Key: 有 API Key 的就填自己的,没有 API Key 的 [点击加QQ](https://qm.qq.com/cgi-bin/qm/qr?k=T1J3Re6JGx4pVLLSQqRJp0lxKR2eDMC2&noverify=0&personal_qrcode_source=4) 免费获取
 
-- 接下来是使用,例如↓
+- 效果演示. (加速器在不用的情况下,就关闭掉,不要一直在后台运行着,会影响手机网速.)
 ![使用](https://pic2.imgdb.cn/item/6447215a0d2dde5777495a63.png)
 ![演示](https://pic2.imgdb.cn/item/644722c30d2dde57774a9fbd.png)
 
